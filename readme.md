@@ -1,5 +1,7 @@
 <h1>Landing Page Prototype</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/Landing-Page/</h2>
+
 <p>This project is a clean and modern <b>Landing Page Prototype</b> created using <b>HTML, CSS and JavaScript.</b> It focuses on layout, spacing, typography, and visual hierarchy - exactly what real UI landing pages follow.</p>
 
 <h2>Features</h2>
